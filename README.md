@@ -26,7 +26,7 @@ A simple and interactive game developed in **LÖVE (Love2D)** to help children i
    ```
 
 ## Assets Structure
-- **sounds/** → Folder containing word pronunciation files (`.ogg` or `.mp3`).
+- **sounds/** → Folder containing word pronunciation files (`.ogg`).
 - **icons/** → Folder containing images for each word.
 - **main.lua** → Core game logic.
 
