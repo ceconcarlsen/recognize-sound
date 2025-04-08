@@ -29,9 +29,3 @@ A simple and interactive game developed in **LÖVE (Love2D)** to help children i
 - **sounds/** → Folder containing word pronunciation files (`.ogg`).
 - **icons/** → Folder containing images for each word.
 - **main.lua** → Core game logic.
-
-## Contribution
-Feel free to contribute by adding new words, sounds, or improving the game mechanics!
-
-## License
-This project is open-source and free to use for educational purposes.
